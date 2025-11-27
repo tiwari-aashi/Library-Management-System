@@ -1,7 +1,7 @@
 # Library-Management-System
 
 
-# 📚 Library Management System (Python + CSV)
+# 📚 Library Management System (Python)
 
 A simple and beginner-friendly **Library Management System** built using Python.  
 This project manages books, students, and book issuance using **CSV files** as a lightweight database.
